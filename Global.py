@@ -20,6 +20,7 @@ def local_variable():
         )
     )
 
+
 def global_variable():
     # this shows what happens with global variables
 
@@ -32,6 +33,7 @@ def global_variable():
             variable_X, variable_Y, variable_Z
         )
     )
+
 
 def main():
     # this function shows how local and global variables work
